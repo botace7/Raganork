@@ -1,7 +1,7 @@
 {
-  "name": "Raganork",
+  "name": "YUKIDEV",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "YUKIDVE whatsapp bot- Modified version of Whatsasena by AKRAM NAYTA.",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
