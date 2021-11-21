@@ -1,14 +1,14 @@
 {
-  "name": "Raganork",
+  "name": "YAKU",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "YUKI whatsapp bot- Modified version of Whatsasena by AKRAM NAYTA.",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/ace5/Raganork.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "author": "YUKIDev / akram nayta",
+  "developer": "souravkl11 / @souravkl11",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/souravkl11/Raganork/issues"
